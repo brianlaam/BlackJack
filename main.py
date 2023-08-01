@@ -359,7 +359,7 @@ while playing:
             if BlackJack == True:
                 player_money -=  player_bet 
             if DDrag:    
-                player_money += player_bet * 3
+                player_money -= player_bet * 3
             if DStra:
                 player_money -= player_bet * 10
             if DSF:
