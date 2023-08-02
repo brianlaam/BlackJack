@@ -27,7 +27,3 @@ The game will track stats like your total wins, losses, current balance, etc.
 - Python 3
 - random 
 - time
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
